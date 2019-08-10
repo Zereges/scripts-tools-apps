@@ -2,7 +2,9 @@
 This is a collection of potentially useful scripts, tools and small applications that might be helpful in accomplishing rather tedious or repetitive jobs.
 
 ## Index
+(in no particular order)
  - [MAL Episodes Renamer](mal-episodes-renamer)
+ - [ID3 Tags Generator](id3-tags-generator)
 
 
 ## Dependencies
