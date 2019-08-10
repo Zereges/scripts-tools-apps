@@ -6,6 +6,8 @@ if [ $# -eq 0 ]; then
     echo "Url is MAL (https://myanimelist.net) link to the anime, such as https://myanimelist.net/anime/1/Cowboy_Bebop"
     echo "Files are list of files (has to be same as number of episodes) in given order, to be renamed."
     echo "This script strips certain characters from the names, such as: ? ! . , '"
+    echo
+    echo "This script is part of Script-Tools-Apps collection <https://github.com/Zereges/scripts-tools-apps>"
     exit 1
 fi
 
