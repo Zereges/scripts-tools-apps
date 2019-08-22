@@ -17,7 +17,7 @@ $ ls cowboy-bepop/
   ep1.mkv ep2.mkv ep3.mkv ep4.mkv ep5.mkv ep6.mkv
   ...
 
-$ ./mal-episodes-renamer.sh https://myanimelist.net/anime/1/Cowboy_Bebop cowboy-bepop/
+$ ./mal-episodes-renamer.sh https://myanimelist.net/anime/1/Cowboy_Bebop cowboy-bepop/*
 $ ls cowboy-bepop/
   01_Asteroid_Blues.mkv    02_Stray_Dog_Strut.mkv           03_Honky_Tonk_Women.mkv
   04_Gateway_Shuffle.mkv   05_Ballad_of_Fallen_Angels.mkv   06_Sympathy_for_the_Devil.mkv
