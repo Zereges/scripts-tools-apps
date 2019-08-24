@@ -5,7 +5,7 @@ This is a collection of potentially useful scripts, tools and small applications
 (in no particular order)
  - [MAL Episodes Renamer](mal-episodes-renamer)
  - [ID3 Tags Generator](id3-tags-generator)
-
+ - [Youtube to MP3](youtube-to-mp3)
 
 ## Dependencies
 The script usually requires posix-like shell-ish environment, which includes, but is not limited to, `bash`, `sed`, `awk`, `grep` and other UNIX standard utilities. Scripts will also work on Windows under `git-bash`.
